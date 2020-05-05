@@ -1,0 +1,83 @@
+body {
+    background-color: hsl(217, 22%, 84%);
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.container {
+    margin-top: 5em;
+    margin-right: 12em;
+}
+
+.join {
+    background-color: #fff;
+    padding: 5%;
+    border-radius: 5px;
+}
+
+.join h2 {
+    color: hsl(179, 62%, 43%);
+}
+
+.join h3 {
+    color: hsl(71, 73%, 54%);
+}
+
+.join p {
+    color: hsl(213, 7%, 70%);
+    text-align: start;
+}
+
+.subscription {
+    background-color: hsl(179, 62%, 43%);
+    color: #fff;
+    border-bottom-left-radius: 5px;
+    padding: 5%;
+}
+
+.span1 {
+    font-size: 3rem;
+    font-weight: bold;
+    vertical-align: middle;
+    margin-right: 5%;
+}
+
+.span2 {
+    vertical-align: middle;
+}
+
+.btn {
+    background-color: hsl(71, 73%, 54%);
+    border: none;
+    padding: .5rem 4rem;
+    margin-left: 20%;
+}
+
+.btn:hover {
+    background-color: hsl(71, 73%, 54%);
+}
+
+.why {
+    background-color: hsl(179, 60%, 53%);
+    color: #fff;
+    border-bottom-right-radius: 5px;
+    padding: 5%;
+}
+
+ul {
+    margin-top: 15%;
+}
+
+li {
+    list-style: none;
+    margin-left: -15%;
+}
+
+.attribution {
+    font-size: 11px;
+    color:color: hsl(218, 45%, 44%);
+    margin-left: 16%;
+    margin-top: 16%;
+}
+
